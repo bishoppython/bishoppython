@@ -12,9 +12,7 @@
   <img align="center" alt="bishopx-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="bishopx-mysql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img  align="center" alt="bishopx-mongodb"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-  <img  align="center" alt="bishopx-arduino"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg">
   <img  align="center" alt="bishopx-django"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
-  <img  align="center" alt="bishopx-trello"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg">
   
   
   
