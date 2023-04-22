@@ -1,4 +1,4 @@
-# Anderson Bispo
+# Anderson Bispo - Resume
 Olá! Meu nome é Anderson Bispo, sou um profissional de Tecnologia da Informação com mais de 13 anos de experiência na área. Comecei minha carreira em 2008 como suporte de hardware e, desde então, venho me desenvolvendo em diversas áreas da TI.
 
 Ao longo desses anos, tive a oportunidade de me especializar em diversas formações, como Gestão de RH pela UNOPAR, Técnico em Redes e Manutenção de Computadores pelo IFPE, além de ter concluído minha graduação em Sistemas da Informação pela UFRPE e a Pós-Graduação em Data Science pela UNOPAR em 2022.
