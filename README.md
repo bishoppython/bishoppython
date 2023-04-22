@@ -14,7 +14,6 @@ Acredito que minha paixão pela tecnologia e vontade de aprender tornam-me um pr
 * Python.
 * Design (adobe Photoshop).
 * Automação de processos.
-* Analista de dados.
 * Analista de requisitos.
 * Professor de tecnologia.
 * API.
@@ -26,6 +25,9 @@ Acredito que minha paixão pela tecnologia e vontade de aprender tornam-me um pr
 * Visão Computacional.
 * Analise de Dados.
 * Modelagem de dados.
+* Habilidades Analiticas.
+* Desenvolvimento Web.
+* Habilidades de Suporte.
 
 ## Formação Acadêmica
 
