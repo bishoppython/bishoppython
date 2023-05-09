@@ -28,6 +28,7 @@ Acredito que minha paixão pela tecnologia e vontade de aprender tornam-me um pr
 * Habilidades Analiticas.
 * Desenvolvimento Web.
 * Habilidades de Suporte.
+* Flask.
 
 ## Formação Acadêmica
 
