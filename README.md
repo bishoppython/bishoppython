@@ -54,15 +54,20 @@ Mais de 13 anos de experiência na área de Tecnologia da Informação
 Especialização em Gestão de RH pela UNOPAR
 Especialização em Técnico em Redes e Manutenção de Computadores pelo IFPE
 
+### Azul Linha Aereas
+Analista de Inteligência Operacional Sênior
+Setor: Análise deInteligência de dados      Período: 2023 - Atual
+Atribuições: 
+
 ### Assertiva Soluções 
 Analista de Suporte Jr. 
-Setor: Análise de Crédito/Fraude       Período: 2021 - Atual
+Setor: Análise de Crédito/Fraude       Período: 2021 - 2023 (2 anos)
 Atribuições: Atuar nos diversos produtos da Assertiva Soluções, buscando soluções para os clientes e auxiliando as squads, QA’s e desenvolvedores na busca de resolução dos possíveis Bug's. Efetuar análise dos dados, a fim de identificar possíveis fraudes focadas na liberação e tratativa de crédito do mercado. Ministrar treinamento interno quando necessário, efetuar a criação de usuários internos, assim como todo o atendimento referente ao Backoffice interno, elaborar relatórios, entre eles, de consumo, usabilidade, territorial além dos relatórios referentes aos chamados realizados focados na melhoria ou correção dos problemas. Participar das Dailys, weeklys, assim como sprints buscando exploração dos problemas encontrados e visando a otimização da resolução deles, além da preparação de novos projetos. Identificar através das bases de dados problemas ocasionados por quebra de código ou comportamento atípico dos usuários, verificando-os nos seguintes SGBD’s {PostgreSQL, MySQL, SQL Server, Oracle}, consultando API, requisições, endpoints, autorizando e liberando tokens de acesso, quando necessário. Efetuando testes de softwares focados nos produtos desenvolvidos, auxiliar no desenvolvimento de novos produtos, dando suporte para os clientes sobre estes produtos.
 
 
 ### Hospital Mestre Vitalino (Grupo Tricentenário)
 Analista de Suporte Jr.
-Setor: Saúde/TI		Período: 2021 - Atual
+Setor: Saúde/TI		Período: 2021 - 2023 (2 anos 1 mês)
 Atribuições: Sob a responsabilidade de efetuar rotinas de atendimentos aos usuários internos. Focado no sistema MV 2000 e MVSoul, dos quais visam viabilizar o atendimento ao paciente. Consultas no banco de dados, MySQL/SQL Server. Validação de cadastro, cadastro de usuário interno, resolução de Bug’s referente ao sistema MV, manutenção preventiva e corretiva, nos dispositivos que incluem {Terminais, Notebooks, Tablets, Impressoras, Roteadores, Hub's, Switches, entre outros}. Desenvolvimento de sistemas que auxiliam os colaboradores na execução de suas rotinas. Rotina de validação dos servidores e pontos-espelhados {mirror server}, instalação de pontos de redes, cabeamento estruturado, instalação e configuração de wifi, elaboração de relatórios pelo MVEditor, dentre outras rotinas tecnológicas focadas na tratativa e na resolução.
 
 
