@@ -55,28 +55,38 @@ Especialização em Gestão de RH pela UNOPAR
 Especialização em Técnico em Redes e Manutenção de Computadores pelo IFPE
 
 ### Azul Linha Aereas
+
 Analista de Inteligência Operacional Sênior
+
 Setor: Análise deInteligência de dados      Período: 2023 - Atual
+
 Atribuições: 
 
 ### Assertiva Soluções 
+
 Analista de Suporte Jr. 
+
 Setor: Análise de Crédito/Fraude       Período: 2021 - 2023 (2 anos)
+
 Atribuições: Atuar nos diversos produtos da Assertiva Soluções, buscando soluções para os clientes e auxiliando as squads, QA’s e desenvolvedores na busca de resolução dos possíveis Bug's. Efetuar análise dos dados, a fim de identificar possíveis fraudes focadas na liberação e tratativa de crédito do mercado. Ministrar treinamento interno quando necessário, efetuar a criação de usuários internos, assim como todo o atendimento referente ao Backoffice interno, elaborar relatórios, entre eles, de consumo, usabilidade, territorial além dos relatórios referentes aos chamados realizados focados na melhoria ou correção dos problemas. Participar das Dailys, weeklys, assim como sprints buscando exploração dos problemas encontrados e visando a otimização da resolução deles, além da preparação de novos projetos. Identificar através das bases de dados problemas ocasionados por quebra de código ou comportamento atípico dos usuários, verificando-os nos seguintes SGBD’s {PostgreSQL, MySQL, SQL Server, Oracle}, consultando API, requisições, endpoints, autorizando e liberando tokens de acesso, quando necessário. Efetuando testes de softwares focados nos produtos desenvolvidos, auxiliar no desenvolvimento de novos produtos, dando suporte para os clientes sobre estes produtos.
 
 
 ### Hospital Mestre Vitalino (Grupo Tricentenário)
+
 Analista de Suporte Jr.
+
 Setor: Saúde/TI		Período: 2021 - 2023 (2 anos 1 mês)
+
 Atribuições: Sob a responsabilidade de efetuar rotinas de atendimentos aos usuários internos. Focado no sistema MV 2000 e MVSoul, dos quais visam viabilizar o atendimento ao paciente. Consultas no banco de dados, MySQL/SQL Server. Validação de cadastro, cadastro de usuário interno, resolução de Bug’s referente ao sistema MV, manutenção preventiva e corretiva, nos dispositivos que incluem {Terminais, Notebooks, Tablets, Impressoras, Roteadores, Hub's, Switches, entre outros}. Desenvolvimento de sistemas que auxiliam os colaboradores na execução de suas rotinas. Rotina de validação dos servidores e pontos-espelhados {mirror server}, instalação de pontos de redes, cabeamento estruturado, instalação e configuração de wifi, elaboração de relatórios pelo MVEditor, dentre outras rotinas tecnológicas focadas na tratativa e na resolução.
 
 
 ### Lanlink Informática
+
 Technical Support 2N
+
 maio de 2020 - novembro de 2020 (7 meses)
-Caruaru, Pernambuco
-Page 2 of 5
-Sob a responsabilidade de apresentar soluções tecnologicas ao cliente
+
+Atribuições: Sob a responsabilidade de apresentar soluções tecnologicas ao cliente
 (TRT6-PE), é efetuado atividades tais como: Instalações e remoções de
 softwares; Instalações de dispositivos e ativos tecnológicos (Computadores,
 notebooks, impressoras, escaners, pontos de rede, cabeamento estruturado,
@@ -89,10 +99,12 @@ tanto online (home office) como também, presencialmente, sendo está a
 modalidade mais atuante.
 
 ### Cebrac Franchising
+
 Professor de tecnologia da informação e comunicações
-novembro de 2019 - maio de 2020 (7 meses)
-Caruaru e Região, Brasil
-Preparar e organizar aulas referente aos assuntos proposto pela escola,
+
+Setor: Educação Privada  Período: 2019 - 2020 (7 meses)
+
+Atribuições: Preparar e organizar aulas referente aos assuntos proposto pela escola,
 dos quais continham Manutenção de Hardware e Software, Robotica,
 programação (web), G-Suite entre outras ferramentas administrativas.
 Trabalhando como suporte, ficava responsável por 150 dispositivos
@@ -102,19 +114,25 @@ servidores de arquivos e impressões que criei para viabilizar o acesso dos
 setores a informação.
 
 ### IFPE - Campus Palmares
+
 Monitor do curso de Redes de Computadores
+
 outubro de 2015 - maio de 2020 (4 anos 8 meses)
+
 Palmares, Pernambuco
+
 Acompanhar os alunos nas disciplinas de maior dificuldade, tais como:
 Linguagem de Programação, Lógica de programação, Sistemas operacionais
 livres, Protocolo de Comunicação, Redes sem fio, Redes I, introdução as
 redes de computadores, empreendedorismo, nas aulas teóricas e práticas.
 
 ### Sandes Informática
+
 Analista de suporte
+
 novembro de 2017 - novembro de 2019 (2 anos 1 mês)
-Palmares e Região, Brasil
-Suporte aos usuários dos softwares proprietários que são representados pela
+
+Atribuições: Suporte aos usuários dos softwares proprietários que são representados pela
 empresa, treinamentos e visitas técnicas. Manutenção nos hardwares de
 automação industrial focado em postos de combustíveis, desenvolvimento de
 softwares, nas linguagens C#, python, SQLServer entre outras. Instalação de
