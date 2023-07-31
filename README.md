@@ -51,29 +51,31 @@ Acredito que minha paixão pela tecnologia e vontade de aprender tornam-me um pr
 ## Experiência Profissional
 
 Mais de 13 anos de experiência na área de Tecnologia da Informação
-Especialização em Gestão de RH pela UNOPAR
-Especialização em Técnico em Redes e Manutenção de Computadores pelo IFPE
+Especialização (Pós Graduação) em Data Science, BI, Data Analytics, Big Data pela UNOPAR
+Bacharelado em Sistemas da Informação pela Universidade Rural Federal de Pernambuco - UFRPE
+Tecnólogo em Gestão de RH pela UNOPAR
+Técnico em Redes e Manutenção de Computadores pelo IFPE
 
 ### Azul Linha Aereas
 
 Analista de Inteligência Operacional Sênior
 
-Setor: Análise deInteligência de dados      Período: 2023 - Atual
+Setor: Inteligência Operacional de dados      Período: 2023 - Atual
 
-Atribuições: 
+Atribuições: Realizar ETL, Analise de Dados, Desenvolvimento de Dashboard (Power BI), desenvolvimento de soluções utilizando a linguagem Python na área de dados, no intuito da melhor tomada de decisão diária, sobre todos os aspectos que regem aviação em geral, assim como seus tripulantes, clientes, aeronaves entre outros. 
 
 ### Assertiva Soluções 
 
 Analista de Suporte Jr. 
 
-Setor: Análise de Crédito/Fraude       Período: 2021 - 2023 (2 anos)
+Setor: Análise de Crédito/Fraude/Suporte       Período: 2021 - 2023 (2 anos)
 
 Atribuições: Atuar nos diversos produtos da Assertiva Soluções, buscando soluções para os clientes e auxiliando as squads, QA’s e desenvolvedores na busca de resolução dos possíveis Bug's. Efetuar análise dos dados, a fim de identificar possíveis fraudes focadas na liberação e tratativa de crédito do mercado. Ministrar treinamento interno quando necessário, efetuar a criação de usuários internos, assim como todo o atendimento referente ao Backoffice interno, elaborar relatórios, entre eles, de consumo, usabilidade, territorial além dos relatórios referentes aos chamados realizados focados na melhoria ou correção dos problemas. Participar das Dailys, weeklys, assim como sprints buscando exploração dos problemas encontrados e visando a otimização da resolução deles, além da preparação de novos projetos. Identificar através das bases de dados problemas ocasionados por quebra de código ou comportamento atípico dos usuários, verificando-os nos seguintes SGBD’s {PostgreSQL, MySQL, SQL Server, Oracle}, consultando API, requisições, endpoints, autorizando e liberando tokens de acesso, quando necessário. Efetuando testes de softwares focados nos produtos desenvolvidos, auxiliar no desenvolvimento de novos produtos, dando suporte para os clientes sobre estes produtos.
 
 
 ### Hospital Mestre Vitalino (Grupo Tricentenário)
 
-Analista de Suporte Jr.
+Analista de Comunicação de Dados Jr.
 
 Setor: Saúde/TI		Período: 2021 - 2023 (2 anos 1 mês)
 
@@ -86,17 +88,11 @@ Technical Support 2N
 
 maio de 2020 - novembro de 2020 (7 meses)
 
-Atribuições: Sob a responsabilidade de apresentar soluções tecnologicas ao cliente
-(TRT6-PE), é efetuado atividades tais como: Instalações e remoções de
-softwares; Instalações de dispositivos e ativos tecnológicos (Computadores,
-notebooks, impressoras, escaners, pontos de rede, cabeamento estruturado,
-implatação de switchs, servidores {Linux, Windows}, AP, roteadores, tokens,
-webcam, entre outros). Dentro das soluções implantadas estão: VPN, Proxy,
-Certificados, Servidores (Windows e Linux), Java, tokens, Impressoras,
-Wireless, infraestrutura de redes, manutenção preventiva e corretiva, entre
-outros processos tecnologicos próprios do cliente. O atendimento é realizado
-tanto online (home office) como também, presencialmente, sendo está a
-modalidade mais atuante.
+Atribuições: Sob a responsabilidade de apresentar soluções tecnologicas ao cliente (TRT6-PE), é efetuado atividades tais como: Instalações e remoções de
+softwares; Instalações de dispositivos e ativos tecnológicos (Computadores, notebooks, impressoras, escaners, pontos de rede, cabeamento estruturado,
+implatação de switchs, servidores {Linux, Windows}, AP, roteadores, tokens, webcam, entre outros). Dentro das soluções implantadas estão: VPN, Proxy,
+Certificados, Servidores (Windows e Linux), Java, tokens, Impressoras, Wireless, infraestrutura de redes, manutenção preventiva e corretiva, entre
+outros processos tecnologicos próprios do cliente. O atendimento é realizado tanto online (home office) como também, presencialmente, sendo está a modalidade mais atuante.
 
 ### Cebrac Franchising
 
