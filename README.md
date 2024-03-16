@@ -14,7 +14,6 @@ Acredito que minha paixão pela tecnologia e vontade de aprender tornam-me um pr
 * Python.
 * Design (adobe Photoshop).
 * Automação de processos.
-* Analista de requisitos.
 * Professor de tecnologia.
 * API.
 * Testes.
@@ -31,6 +30,12 @@ Acredito que minha paixão pela tecnologia e vontade de aprender tornam-me um pr
 * Flask.
 
 ## Formação Acadêmica
+
+* Programa de Pós-graduação em Engenharia da Computação (PPGEC).
+  * Universidade de Pernambuco – UPE
+  * Inteligência Computacional
+  * Proposta Dissertação Mestrado: Uma proposta de Processamento de Linguagem Natural para Avaliação da Comunicação em Crianças Verbais com TEA.
+  * Período - (04/2024 a 05/2028)
 
 * Pós-graduação em Data Science, BI, Data Analytics, Big Data.
   * Universidade do Norte do Paraná – UNOPAR
@@ -60,7 +65,7 @@ Técnico em Redes e Manutenção de Computadores pelo IFPE
 
 Analista de Inteligência Operacional Sênior
 
-Setor: Inteligência Operacional de dados      Período: 2023 - Atual
+Setor: Inteligência Operacional de dados      Período: 2023 - atual
 
 Atribuições: Realizar ETL, Analise de Dados, Desenvolvimento de Dashboard (Power BI), desenvolvimento de soluções utilizando a linguagem Python na área de dados, no intuito da melhor tomada de decisão diária, sobre todos os aspectos que regem aviação em geral, assim como seus tripulantes, clientes, aeronaves entre outros. 
 
