@@ -1,7 +1,7 @@
 # Anderson Bispo - Resume
-Olá! Meu nome é Anderson Bispo, sou um profissional de Tecnologia da Informação com mais de 13 anos de experiência na área. Comecei minha carreira em 2008 como suporte de hardware e, desde então, venho me desenvolvendo em diversas áreas da TI.
+Olá! Meu nome é Anderson Bispo, sou um profissional de Tecnologia da Informação com mais de 15 anos de experiência na área. Comecei minha carreira em 2008 como suporte de hardware e, desde então, venho me desenvolvendo em diversas áreas da TI.
 
-Ao longo desses anos, tive a oportunidade de me especializar em diversas formações, como Gestão de RH pela UNOPAR, Técnico em Redes e Manutenção de Computadores pelo IFPE, além de ter concluído minha graduação em Sistemas da Informação pela UFRPE e a Pós-Graduação em Data Science pela UNOPAR em 2022.
+Ao longo desses anos, tive a oportunidade de me especializar em diversas formações, como Gestão de RH pela UNOPAR, Técnico em Redes e Manutenção de Computadores pelo IFPE, além de ter concluído minha graduação em Sistemas da Informação pela UFRPE e a Pós-Graduação em Data Science pela UNOPAR em 2022, atualmente aluno Mestrando em Engenharia da Computação (PPGEC) UPE.
 
 Gosto de desafios e sempre estou disposto a aprender novas habilidades e tecnologias, por isso me considero uma pessoa autodidata e curiosa. Entre as minhas habilidades profissionais e pessoais, posso destacar minha habilidade como desenvolvedor na linguagem Python, conhecimento em Design (por curiosidade), automação de processos, analista de dados, analista de requisitos e professor de tecnologia.
 
@@ -35,7 +35,7 @@ Acredito que minha paixão pela tecnologia e vontade de aprender tornam-me um pr
   * Universidade de Pernambuco – UPE
   * Inteligência Computacional
   * Proposta Dissertação Mestrado: Uma proposta de Processamento de Linguagem Natural para Avaliação da Comunicação em Crianças Verbais com TEA.
-  * Período - (04/2024 a 05/2028)
+  * Período - (04/2024 a 05/2026)
 
 * Pós-graduação em Data Science, BI, Data Analytics, Big Data.
   * Universidade do Norte do Paraná – UNOPAR
