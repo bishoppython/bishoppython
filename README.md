@@ -31,7 +31,7 @@ Acredito que minha paixão pela tecnologia e vontade de aprender tornam-me um pr
 
 ## Formação Acadêmica
 
-* Programa de Pós-graduação em Engenharia da Computação (PPGEC).
+* Programa de Pós-graduação em Engenharia da Computação (PPGEC) - Mestrado
   * Universidade de Pernambuco – UPE
   * Inteligência Computacional
   * Proposta Dissertação Mestrado: Uma proposta de Processamento de Linguagem Natural para Avaliação da Comunicação em Crianças Verbais com TEA.
