@@ -28,6 +28,8 @@ Acredito que minha paixão pela tecnologia e vontade de aprender tornam-me um pr
 * Desenvolvimento Web.
 * Habilidades de Suporte.
 * Flask.
+* IA.
+* LLM.
 
 ## Formação Acadêmica
 
@@ -63,7 +65,7 @@ Técnico em Redes e Manutenção de Computadores pelo IFPE
 
 ### Azul Linha Aereas
 
-Analista de Inteligência Operacional Sênior
+Analista de Inteligência Operacional Sênior -> Data Engineer in CRP
 
 Setor: Inteligência Operacional de dados      Período: 2023 - atual
 
