@@ -63,11 +63,31 @@ Bacharelado em Sistemas da Informação pela Universidade Rural Federal de Perna
 Tecnólogo em Gestão de RH pela UNOPAR
 Técnico em Redes e Manutenção de Computadores pelo IFPE
 
+## Centro Universitário UniFavip
+
+Docente Ensino Superior    
+
+Setor: Educação | Pedagogico               Período: 2024 - Atual
+
+Atribuições: Atuo na elaboração e condução de aulas interativas, proporcionando aos alunos uma experiência dinâmica e envolvente
+no aprendizado de Python, Data Science, Redes de Computadores, Linguagem C, Big Data, Inteligência Artificial Generativa (GenAI),
+LLMs, LangChain e desenvolvimento de APIs. Minha metodologia de ensino combina exercícios práticos, desafios e projetos reais,
+estimulando o pensamento crítico e a resolução de problemas. Desenvolvo conteúdos didáticos que exploram desde conceitos
+fundamentais até aplicações avançadas de Machine Learning, abordando manipulação de dados com pandas e numpy,
+modelagem preditiva com scikit-learn e técnicas de otimização de modelos. Ensino boas práticas de programação, incluindo
+organização de código, versionamento com Git e reprodutibilidade de experimentos, garantindo que os alunos adquiram habilidades
+essenciais para o mercado de trabalho. Além disso, incorporo SQL e manipulação de bancos de dados nos
+conteúdos, capacitando os alunos a extrair e tratar dados para análise e modelagem. Incentivo a exploração de APIs com FastAPI e
+frameworks para agentes inteligentes, como LangChain, possibilitando a aplicação prática da IA Generativa em diferentes
+contextos. Busco sempre inovar na sala de aula, trazendo cenários reais do mercado e projetos colaborativos, onde os alunos podem aplicar
+conceitos de engenharia de dados, redes neurais e ensembles. Introduzo também conceitos de AWS e Docker, preparando-os para
+a implantação e escalabilidade de modelos em produção.
+
 ### Azul Linha Aereas
 
 Analista de Inteligência Operacional Sênior -> Data Engineer in CRP
 
-Setor: Inteligência Operacional de dados      Período: 2023 - atual
+Setor: Inteligência Operacional de dados      Período: 2023 - 2025
 
 Atribuições: Realizar ETL, Analise de Dados, Desenvolvimento de Dashboard (Power BI), desenvolvimento de soluções utilizando a linguagem Python na área de dados, no intuito da melhor tomada de decisão diária, sobre todos os aspectos que regem aviação em geral, assim como seus tripulantes, clientes, aeronaves entre outros. 
 
