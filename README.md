@@ -1,7 +1,7 @@
 # Anderson Bispo - Resume
 Olá! Meu nome é Anderson Bispo, sou um profissional de Tecnologia da Informação com mais de 15 anos de experiência na área. Comecei minha carreira em 2008 como suporte de hardware e, desde então, venho me desenvolvendo em diversas áreas da TI.
 
-Ao longo desses anos, tive a oportunidade de me especializar em diversas formações, como Gestão de RH pela UNOPAR, Técnico em Redes e Manutenção de Computadores pelo IFPE, além de ter concluído minha graduação em Sistemas da Informação pela UFRPE e a Pós-Graduação em Data Science pela UNOPAR em 2022, atualmente aluno Mestrando em Engenharia da Computação (PPGEC) UPE.
+Ao longo desses anos, tive a oportunidade de me especializar em diversas formações, como Gestão de RH pela UNOPAR, Técnico em Redes e Manutenção de Computadores pelo IFPE, além de ter concluído minha graduação em Sistemas da Informação pela UFRPE e a Pós-Graduação em Data Science pela UNOPAR em 2022, atualmente Mestrado em Engenharia da Computação (PPGEC) UPE - 2026.
 
 Gosto de desafios e sempre estou disposto a aprender novas habilidades e tecnologias, por isso me considero uma pessoa autodidata e curiosa. Entre as minhas habilidades profissionais e pessoais, posso destacar minha habilidade como desenvolvedor na linguagem Python, conhecimento em Design (por curiosidade), automação de processos, analista de dados, analista de requisitos e professor de tecnologia.
 
@@ -12,6 +12,8 @@ Acredito que minha paixão pela tecnologia e vontade de aprender tornam-me um pr
 ## Habilidades
 
 * Python.
+* Engenharia de Dados.
+* Pipeline | Storyteling.
 * Design (adobe Photoshop).
 * Automação de processos.
 * Professor de tecnologia.
@@ -37,7 +39,7 @@ Acredito que minha paixão pela tecnologia e vontade de aprender tornam-me um pr
   * Universidade de Pernambuco – UPE
   * Inteligência Computacional
   * Proposta Dissertação Mestrado: Uma proposta de Processamento de Linguagem Natural para Avaliação da Comunicação em Crianças Verbais com TEA.
-  * Período - (04/2024 a 05/2026)
+  * Período - (04/2024 a 08/2026)
 
 * Pós-graduação em Data Science, BI, Data Analytics, Big Data.
   * Universidade do Norte do Paraná – UNOPAR
@@ -58,16 +60,48 @@ Acredito que minha paixão pela tecnologia e vontade de aprender tornam-me um pr
 ## Experiência Profissional
 
 Mais de 13 anos de experiência na área de Tecnologia da Informação
+Mestrado em Engenharia da Computação pelo PPGEC/UPE
 Especialização (Pós Graduação) em Data Science, BI, Data Analytics, Big Data pela UNOPAR
 Bacharelado em Sistemas da Informação pela Universidade Rural Federal de Pernambuco - UFRPE
 Tecnólogo em Gestão de RH pela UNOPAR
 Técnico em Redes e Manutenção de Computadores pelo IFPE
 
+## SomosTodosNeuroKids | Startup
+
+CO-Founder & CTO 
+
+Setor: Health Tech             Período: 2026 - Atual
+
+Sou responsável por definir como a informação é coletada, processada e entregue com valor. No caso de uma plataforma como o NeuroKids,
+isso significa desenhar a arquitetura de coleta passiva de dados durante as sessões das crianças, garantir que o pipeline transforme interações
+brutas em relatórios clínicos confiáveis, e assegurar conformidade com LGPD — especialmente crítico por tratar dados sensíveis de menores. Também
+cuida da infraestrutura cloud (escalabilidade, custo, disponibilidade) e da camada de IA e machine learning que alimenta funcionalidades como reconhecimento
+de padrões de linguagem e ecolalia. Tratando-se de gamificação, elaboro a tradução da intenção pedagógica e terapêutica em mecânicas técnicas funcionais
+— sistemas de recompensa, progressão, personalização de conteúdo em tempo real com base no perfil da criança. Aqui a complexidade está em fazer a IA "aprender"
+os hiperfocos de cada criança e adaptar a experiência de forma contínua, sem intervenção manual. No que diz respeito a gestão técnica, defino o roadmap de engenharia,
+lidera o time de desenvolvimento, toma decisões de stack e arquitetura, e é o elo entre o que o produto promete e o que é tecnicamente viável entregar. E como somos uma
+startups em estágio inicial, é claro que o CTO ainda escreve código — não sendo apenas um papel puramente estratégico. Por fim ainda carrego um desafio adicional: o produto
+precisa ser simultaneamente simples o suficiente para uma criança de 4 anos usar sem fricção e robusto o suficiente para gerar dados clínicos confiáveis para um terapeuta.
+Equilibrar essa tensão entre experiência afetiva e precisão técnica é, provavelmente, o trabalho mais crítico do cargo.
+
+## Grupo Aposta Ganha | RecebaBet
+
+Engenheiro de Dados Sênior    
+
+Setor: Bet | Tech - Data             Período: 2026 - 2026
+
+Atuando no desenvolvimento e na manutenção de pipelines de dados robustos e escaláveis, integrando diferentes fontes,
+modelando dados para uso analítico e otimizando consultas e processos para melhorar performance e reduzir custos de infraestrutura.
+atuando diretamente com refatoração de código legado, implementação de testes e validações de qualidade,e evolução da arquitetura de
+dados conforme a empresa cresce. Participar ativamente de reuniões de decisões estratégicas do grupo onde me reuno com times de produto,
+analytics, Marketing e demais setores para entender necessidades de negócio, definir métricas, orientar a coleta correta dos dados e decidir
+como eles devem ser disponibilizados. Traduzir demandas do negócio em soluções técnicas viáveis,equilibrando prazos, custo e confiabilidade.
+
 ## Centro Universitário UniFavip
 
 Docente Ensino Superior    
 
-Setor: Educação | Pedagogico               Período: 2024 - Atual
+Setor: Educação | Pedagogico               Período: 2024 - 2026
 
 Atribuições: Atuo na elaboração e condução de aulas interativas, proporcionando aos alunos uma experiência dinâmica e envolvente
 no aprendizado de Python, Data Science, Redes de Computadores, Linguagem C, Big Data, Inteligência Artificial Generativa (GenAI),
